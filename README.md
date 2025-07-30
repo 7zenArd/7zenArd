@@ -18,13 +18,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 
 ###
 
@@ -34,7 +30,6 @@
   - 💻 Always exploring — from apps and web to hardware stuffde<br>
   - ⚡"Kreativitas dimulai dari rasa ingin tahu." ☕
 </p>
-
 
 ###
 
@@ -46,11 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7zenard&show_icons=true&locale=en&layout=compact" alt="7zenard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7zenard&show_icons=true&locale=en" alt="7zenard" /></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
