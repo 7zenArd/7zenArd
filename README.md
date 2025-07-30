@@ -43,3 +43,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7zenard&show_icons=true&locale=en" alt="7zenard" /></p>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/7zenArd/7zenArd/output/snake.svg" alt="Snake animation" />
+
+###
