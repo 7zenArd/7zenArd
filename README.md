@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   
   <h1>Hey there, I'm Ardinata 👋</h1>
-  <p><b>Software Engineer | Full-Stack & Mobile Developer</b></p>
+  <p><b>Fullstack Web Developer | AI-Driven Software Engineer</b></p>
 
   <!-- Social Badges -->
   <a href="mailto:emailkamu@gmail.com">
@@ -11,46 +11,43 @@
   <a href="https://linkedin.com/in/usernamekamu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/usernamekamu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
-  </a>
 </div>
 
 <br>
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" />
 
-### 👩‍💻 About Me
+### 👩‍‍💻 About Me
 
-I am a passionate **Software Engineer based in Indonesia**, dedicated to building scalable web applications, cross-platform mobile apps, and exploring modern tech architectures.
+I am a **Fullstack Web Developer** based in Indonesia, specializing in building modern, fast, and scalable web applications through **AI-assisted & spec-driven development (Vibe Coding)**.
 
-- 🔭 **Current Focus:** Building high-performance web & mobile solutions using **Flutter, React Native, and Laravel/PHP/Node.js**.
-- 💼 **What I Do:** Transform complex business requirements into clean, maintainable, and user-friendly products.
-- ⚡ **Fun Fact:** Driven by curiosity and coffee ☕ — I love diving into system architectures, hardware integration, and optimizing app performance.
+- 🔭 **Current Focus:** Architecting robust web systems with **Laravel, PHP, JavaScript/TypeScript, and modern AI toolchains**.
+- 💼 **What I Do:** Transforming complex business needs into production-ready web platforms with speed, high code quality, and efficiency.
+- ⚡ **Vibe Coding Workflow:** Leveraging advanced AI tools (Claude Code, Cursor, OpenSpec) to accelerate feature delivery, test-driven logic, and system architecture.
 
 <br clear="both">
 
-### 🚀 Featured Projects
+### 🚀 Featured Web Projects
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project A** | E-Commerce Mobile App with real-time payment gateway | Flutter, Laravel, Midtrans | [View Repo](https://github.com/7zenard/project-a) |
-| **Project B** | Dashboard System with real-time analytics | React, Node.js, PostgreSQL | [View Repo](https://github.com/7zenard/project-b) |
+| **Project A** | Multi-Tenant Point of Sale (POS) & Analytics Web App | Laravel, Vue/React, MySQL | [View Repo](https://github.com/7zenard/project-a) |
+| **Project B** | High-Performance News & Content Management System | PHP/Laravel, Nginx, Docker | [View Repo](https://github.com/7zenard/project-b) |
 
 <br>
 
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages & Frameworks -->
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="flutter"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="dart"/></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="reactnative"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="kotlin"/></a>
+  <!-- Languages & Web Stacks -->
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/></a>
+  <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg" width="40" height="40" alt="laravel"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/></a>
 </p>
 
 <br>
